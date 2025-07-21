@@ -1,12 +1,29 @@
-Hi there, Washma Tabassum here👋
+# Hi there, I'm Washma Tabassum 👋
 
-- 👩 I'm A CS Undergraduate at UET, Peshawar, Pakistan.
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning MERN Stack.
-- 👯 I’m looking to collaborate on web dev projects
-- 🤔 I’m looking to learn Cloud Computing and Machine learning.
-- 💬 Ask me about Web Development.
-- 📫 Reach me via, washmamalik2906@gmail.com
-- 😄 Pronouns: She/Her
-  
+🎓 **CS Undergraduate** at UET, Peshawar  
+🌍 **Tech Enthusiast** passionate about building meaningful solutions
+
+## 🚀 Current Focus
+- 🔭 Working on **Web Development** projects using the **MERN Stack**
+- 🧠 Exploring **Machine Learning**, **LangChain**, and **Generative AI**
+- ☁️ Learning about **Cloud Computing** and **Linux Administration (RHEL)**
+
+## 🤝 Open to Collaborate On
+- Web Development 
+- AI/ML Integration into Web Apps
+- Community Work
+- Cloud-based Deployments (Docker, Railway, Vercel, etc.)
+
+## 🛠️ Tech Stack
+`JavaScript` `React.js` `Node.js` `Express` `MongoDB`  
+`Python` `LangChain` `ChromaDB` `TensorFlow.js`  
+`Linux` `Git` `Firebase` `Docker`
+
+## 📫 Let's Connect
+- Email: **washmamalik2906@gmail.com**
+- LinkedIn: [linkedin.com/in/washmatabassum](https://linkedin.com/in/washma-tabassum)
+
+> 🧕 Pronouns: She/Her  
+> 🌱 Always curious, always learning.
+
 
