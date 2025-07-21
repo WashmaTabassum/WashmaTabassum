@@ -6,7 +6,7 @@
 ## 🚀 Current Focus
 - 🔭 Working on **Web Development** projects using the **MERN Stack**
 - 🧠 Exploring **Machine Learning**, **LangChain**, and **Generative AI**
-- ☁️ Learning about **Cloud Computing** and **Linux Administration (RHEL)**
+- ☁️ Learning about **Cloud Computing** and **Linux**
 
 ## 🤝 Open to Collaborate On
 - Web Development 
