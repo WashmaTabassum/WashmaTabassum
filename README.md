@@ -1,6 +1,6 @@
 # Hi there, I'm Washma Tabassum 👋
 
-🎓 **CS Undergraduate** at UET, Peshawar  
+🎓 **CS Graduate** from UET, Peshawar  
 🌍 **Tech Enthusiast** passionate about building meaningful solutions
 
 ## 🚀 Current Focus
