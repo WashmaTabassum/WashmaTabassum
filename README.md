@@ -4,14 +4,15 @@
 🌍 **Tech Enthusiast** passionate about building meaningful solutions
 
 ## 🚀 Current Focus
-- 🔭 Working on **Web Development** projects using the **MERN Stack**
+- 🔭 Working on **Web Development** projects using the **MERN Stack** and Software Testing **(Manual + Automation)**
 - 🧠 Exploring **Machine Learning**, **LangChain**, and **Generative AI**
 - ☁️ Learning about **Cloud Computing** and **Linux**
 
 ## 🤝 Open to Collaborate On
-- Web Development 
+- Web Development
+- Software Quality Assurance
 - AI/ML Integration into Web Apps
-- Community Work
+- Chatbot Development using **LangChain**
 - Cloud-based Deployments (Docker, Railway, Vercel, etc.)
 
 ## 🛠️ Tech Stack
