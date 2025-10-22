@@ -16,7 +16,7 @@
 - Cloud-based Deployments (Docker, Railway, Vercel, etc.)
 
 ## 🛠️ Tech Stack
-`Postman` `Cypress` `Seleninum` `Jira` `TestRail` `Qase`
+`Postman` `Cypress` `Seleninum` `Jira` `TestRail` `Qase` 
 `JavaScript` `React.js` `Node.js` `Express` `MongoDB`  
 `Python` `LangChain` `ChromaDB` `TensorFlow.js`  
 `Linux` `Git` `Firebase` `Docker`
