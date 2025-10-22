@@ -4,7 +4,7 @@
 🌍 **Tech Enthusiast** passionate about building meaningful solutions
 
 ## 🚀 Current Focus
-- 🔭 Working on **Web Development** projects using the **MERN Stack** and Software Testing **(Manual + Automation)**
+- 🔭 Working on **Web Development** projects using the **MERN Stack** and **Software Testing (Manual + Automation)**
 - 🧠 Exploring **Machine Learning**, **LangChain**, and **Generative AI**
 - ☁️ Learning about **Cloud Computing** and **Linux**
 
@@ -12,10 +12,11 @@
 - Web Development
 - Software Quality Assurance
 - AI/ML Integration into Web Apps
-- Chatbot Development using **LangChain**
+- Chatbot Development using LangChain
 - Cloud-based Deployments (Docker, Railway, Vercel, etc.)
 
 ## 🛠️ Tech Stack
+`Postman` `Cypress` `Seleninum` `Jira` `TestRail` `Qase`
 `JavaScript` `React.js` `Node.js` `Express` `MongoDB`  
 `Python` `LangChain` `ChromaDB` `TensorFlow.js`  
 `Linux` `Git` `Firebase` `Docker`
